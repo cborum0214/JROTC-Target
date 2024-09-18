@@ -1,0 +1,9 @@
+C:\Users\cborum\source\repos\PingApp\PingApp\bin\Release\PingApp.exe.config
+C:\Users\cborum\source\repos\PingApp\PingApp\bin\Release\PingApp.exe
+C:\Users\cborum\source\repos\PingApp\PingApp\bin\Release\PingApp.pdb
+C:\Users\cborum\source\repos\PingApp\PingApp\obj\Release\PingApp.csproj.AssemblyReference.cache
+C:\Users\cborum\source\repos\PingApp\PingApp\obj\Release\PingApp.Properties.Resources.resources
+C:\Users\cborum\source\repos\PingApp\PingApp\obj\Release\PingApp.csproj.GenerateResource.cache
+C:\Users\cborum\source\repos\PingApp\PingApp\obj\Release\PingApp.csproj.CoreCompileInputs.cache
+C:\Users\cborum\source\repos\PingApp\PingApp\obj\Release\PingApp.exe
+C:\Users\cborum\source\repos\PingApp\PingApp\obj\Release\PingApp.pdb
