@@ -11,44 +11,52 @@ namespace PingApp
     {
         // List of IP addresses to ping
         private string[] ipAddresses = {
-        "172.17.96.147",    // Monitor 1
-        "172.17.96.146",    // Monitor 2
-        "172.17.96.156",    // Monitor 3
-        "172.17.96.154",    // Monitor 4
-        "172.17.96.149",    // Target 1
-        "172.17.96.151",    // Target 2
-        "172.17.96.155",    // Target 3
-        "172.17.96.153",    // Target 4
-        "172.17.96.157",    // Monitor 5
-        "172.17.96.160",    // Monitor 6
-        "172.17.96.162",    // Monitor 7
-        "172.17.96.164",    // Monitor 8
-        "172.17.96.158",    // Target 5
-        "172.17.96.159",    // Target 6
-        "172.17.96.161",    // Target 7
-        "172.17.96.163",    // Target 8
-        "172.17.96.152",    // Display 1
-        "172.17.96.150"     // Router
+        "172.16.100.11",    // Target 1
+        "172.16.100.12",    // Target 2
+        "172.16.100.13",    // Target 3
+        "172.1+.100.14",    // Target 4
+        "172.16.100.15",    // Target 5
+        "172.16.100.16",    // Target 6
+        "172.16.100.17",    // Target 7
+        "172.16.100.18",    // Target 8
+        "172.16.100.19",    // Target 9
+        "172.16.100.20",    // Target 10
+        "172.16.100.21",    // Monitor 1
+        "172.16.100.22",    // Monitor 2
+        "172.16.100.23",    // Monitor 3
+        "172.16.100.24",    // Monitor 4
+        "172.16.100.25",    // Monitor 5
+        "172.16.100.26",    // Monitor 6
+        "172.16.100.27",    // Monitor 7
+        "172.16.100.28",    // Monitor 8
+        "172.16.100.29",    // Monitor 9
+        "172.16.100.30",    // Monitor 10
+        "172.16.100.152",    // Display 1
+        "172.16.100.100"     // Router
     };
 
         // Custom display names for the IP addresses
         private string[] displayNames = {
-        "Monitor 1",
-        "Monitor 2",
-        "Monitor 3",
-        "Monitor 4",
         "Target 1",
         "Target 2",
         "Target 3",
         "Target 4",
-        "Monitor 5",
-        "Monitor 6",
-        "Monitor 7",
-        "Monitor 8",
         "Target 5",
         "Target 6",
         "Target 7",
         "Target 8",
+        "Target 9",
+        "Target 10",
+        "Monitor 1",
+        "Monitor 2",
+        "Monitor 3",
+        "Monitor 4",
+        "Monitor 5",
+        "Monitor 6",
+        "Monitor 7",
+        "Monitor 8",
+        "Monitor 9",
+        "Monitor 10",
         "Display 1",
         "Router"
     };
